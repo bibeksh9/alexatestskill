@@ -1,18 +1,16 @@
 {
-   'discobani:{
-        'token': 'discobani',
-        'url': 'https://raw.githubusercontent.com/bibeksh9/alexatestskill/main/bongradio.m3u',
-        'metadata': {
-            'title': 'discobani'
-            
-        },
+   "discobani": {
+        "token": "discobani",
+        "url": "https: //raw.githubusercontent.com/bibeksh9/alexatestskill/main/bongradio.m3u",
+        "metadata": {
+            "title": "discobani"
+        }
     },
-  'banglarock':{
-        'token': 'Bangla Rock',
-        'url': 'https://node-27.zeno.fm/15wnypt6by8uv',
-        'metadata': {
-            'title': 'Bangla Rock'
-            
-        },
+  "banglarock": {
+        "token": "Bangla Rock",
+        "url": "https: //node-27.zeno.fm/15wnypt6by8uv",
+        "metadata": {
+            "title": "Bangla Rock"
+        }
     }
 }
